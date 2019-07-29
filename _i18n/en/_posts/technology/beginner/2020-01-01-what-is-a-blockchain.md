@@ -21,7 +21,7 @@ Most people have come across the term blockchain but few can tell you what it is
     <div class="col-md-9">
         <h5 class="intro-article-title">Blockchain as a Data Structure</h5>
         <p class="mb-1">
-            In the first article of this chapter, we will look at how a bockchain stores data and why this makes the data secure.
+            In the first article of this chapter, we will look at how a blockchain stores data and why this makes the data secure.
         </p>
         <p class="mb-0">
             <a class="font-weight-bold" href="{{ site.baseurl }}{% post_url /technology/beginner/2020-01-02-blockchain-as-a-data-structure %}">Read Article</a>
